@@ -2,7 +2,7 @@
   RewriteEngine on
 
 
-  RewriteBase    /~e46762/wda/mvc
+  RewriteBase    /~s3314713/.HTMLinfo/wda/mvc
   RewriteRule    ^$   webroot/   [L]
   RewriteRule    (.*) webroot/$1 [L]
 </IfModule>
